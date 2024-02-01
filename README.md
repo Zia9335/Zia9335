@@ -37,6 +37,7 @@ I've been deeply engaged in computer science since the beginning of my career. M
     </td>
   </tr>
 </table>
-Let's Set Sail
+
+## Let's Set Sail
 ---
-- [LinkedIn](https://www.linkedin.com/in/ziaullah-cs/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/ziaullah-cs/) and let's set sail on this coding adventure together!
