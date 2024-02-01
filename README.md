@@ -6,11 +6,14 @@ I'm Zia Ullah, an interstellar coder on a mission to turn caffeine into code.
 I've been deeply engaged in computer science since the beginning of my career. My passion lies in cross-platform application development using Flutter, software project management, cybersecurity, and artificial intelligence. I'm enthusiastic about acquiring new skills to enhance my self-assurance and expertise, always ready to venture outside my comfort zone to embrace new challenges for career advancement.
 
 ## Projects
-[![Now by HMC](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/b2/87/6eb28715-6582-46b8-d68d-bdef4ba70045/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp)](https://apps.apple.com/gb/app/now-by-hmc/id1566548465)
-
-
 <a href="https://apps.apple.com/gb/app/now-by-hmc/id1566548465">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/b2/87/6eb28715-6582-46b8-d68d-bdef4ba70045/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" alt="Now by HMC" width="100" height="100">
+</a>
+<a href="https://apps.apple.com/gb/app/now-by-hmc/id1566548465">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/b2/87/6eb28715-6582-46b8-d68d-bdef4ba70045/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp" alt="Now by HMC" width="100" height="100">
+</a>
+<a href="[https://apps.apple.com/gb/app/now-by-hmc/id1566548465](https://play.google.com/store/apps/details?id=com.app.HMC.royodispatcher&hl=en&gl=US)">
+  <img src="[https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/b2/87/6eb28715-6582-46b8-d68d-bdef4ba70045/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp](https://play-lh.googleusercontent.com/aBLsH149xhKj7YvOscnnxhjDRH__32Sr06TE3XZvJaTp8VbggglDJ-Df64lHRTI8-vM=w480-h960-rw)" alt="Now by HMC" width="100" height="100">
 </a>
 
 ## Skills
