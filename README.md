@@ -6,7 +6,7 @@ I'm Zia Ullah, an interstellar coder on a mission to turn caffeine into code.
 I've been deeply engaged in computer science since the beginning of my career. My passion lies in cross-platform application development using Flutter, software project management, cybersecurity, and artificial intelligence. I'm enthusiastic about acquiring new skills to enhance my self-assurance and expertise, always ready to venture outside my comfort zone to embrace new challenges for career advancement.
 
 ## Projects
-- [**ignite**](https://ignitestartup.pk/): Worked on the Pakistan Startup Portal, utilizing Vue.js and Tailwind CSS. Developed an interactive and responsive platform for showcasing startups in Pakistan, strengthening my frontend development skills and reinforcing my commitment to crafting impactful digital solutions.
+[![Now by HMC](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/6e/b2/87/6eb28715-6582-46b8-d68d-bdef4ba70045/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/460x0w.webp)](https://apps.apple.com/gb/app/now-by-hmc/id1566548465)
 
 ## Skills
 - **Flutter Dart:** Complex UI Development
