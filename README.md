@@ -22,8 +22,12 @@ I've been deeply engaged in computer science since the beginning of my career. M
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/40/20/544020e8-6030-84bb-1241-94165ae09601/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/460x0w.webp" alt="Free Indeed!" width="100" height="100">
 </a>
 &nbsp;&nbsp;&nbsp;
-<a href="[https://apps.apple.com/us/app/free-indeed/id1669226287](https://apps.apple.com/bs/app/lamma-app/id1605119039)">
+<a href="https://apps.apple.com/us/app/free-indeed/id1669226287](https://apps.apple.com/bs/app/lamma-app/id1605119039">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/31/8a/1f318a62-f0af-1a3d-81d6-21af88abdcfa/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/460x0w.webp" alt="Lamma app" width="100" height="100">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://apps.apple.com/bs/app/goldin/id6463608178">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/9a/73/629a73a3-aba2-8272-dfa1-6c5ef7b03f25/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="Goldin" width="100" height="100">
 </a>
 
 ## Skills
