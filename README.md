@@ -1,7 +1,8 @@
 <h1 align="center">Ahoy, fellow code adventurers! :pirate_flag:</h1> <br>
 I'm Zia Ullah, an interstellar coder on a mission to turn caffeine into code.
 
-About:
+About
+---
 I have been deeply engaged with computer science since the outset of my career. As such, I am highly interested in cross-platform application development using Flutter, software project management, cybersecurity, and artificial intelligence. I am fervent about acquiring new skills and capabilities to enhance my self-assurance and expertise. I am prepared to venture outside my comfort zone and embrace new challenges to realize the career advancement that I have been aspiring to
 
 
@@ -17,13 +18,12 @@ Skills
 - Flutter Dart: Complex UI Development
 - Architecture: MVVM
 - State Management: Provider, Stacked, Bloc, MobX.
-- Firebase: Push notifications, Crashlytics, Analytics, Authentication, Firebase Cloud Messaging, Realtime Database, Test Lab...
 - API Integration: Rest APIs added to the App.
-- App deployment: Google Play Store and App Store.
+- Firebase: Push notifications, Crashlytics, Analytics, Authentication, Firebase Cloud Messaging, Realtime Database, Test Lab...
 - Clean and maintainable code: Optimizing performance and code readability.
 - Payment Integration: Stripe, In-app Purchases, Hosted payment. 
 - Hardware devices: NFC, Thermal Printer, POS devices.
-- Hardware devices: NFC, Thermal Printer, POS devices.
+- App deployment: Google Play Store and App Store.
 - Subject interest: Software Engineering, Data Structure, Analysis of Algorithms, Programming, Project Management, AI, Cyber Security, Operating System.
 - Tech Language: C++, Java, Python, Dart, HTML, CSS.
 ---
