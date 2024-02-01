@@ -66,33 +66,3 @@ Connect with me on [LinkedIn](https://www.linkedin.com/in/ziaullah-cs/) and let'
   <img src="https://onmsft.com/wp-content/uploads/2021/03/linkedinappicon.jpg" alt="LinkedIn" width="100" height="100">
 </a>
 
-
-<!-- Profile Views Counter -->
-![Profile Views](https://komarev.com/ghpvc/?username=Zia9335&color=green)
-
-<!-- GitHub Activity Graph -->
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Zia9335&theme=vue-dark)
-
-<!-- GitHub Trophy -->
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=Zia9335&theme=darkhub)
-
-<!-- GitHub Stats and Streak -->
-<table align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Zia9335&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Zia9335&theme=vue-dark&hide_border=true" alt="GitHub Streak Stats">
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zia9335&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="GitHub Trophies">
-    </td>
-  </tr>
-</table>
-
-<!-- Wakatime Stats -->
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Zia9335&theme=vue-dark&layout=compact)
-
