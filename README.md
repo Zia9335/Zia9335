@@ -4,7 +4,7 @@ Projects
 ---
 - [ignite](https://ignitestartup.pk/): I had the opportunity to work on the Pakistan Startup Portal, where I utilized Vue.js and Tailwind CSS to create an interactive and responsive platform for showcasing startups in Pakistan. This experience strengthened my frontend development skills and reinforced my commitment to crafting impactful digital solutions.<br>
 
-<br><br>
+
 Skills
 <br>
 ---
