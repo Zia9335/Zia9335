@@ -62,3 +62,6 @@ I've been deeply engaged in computer science since the beginning of my career. M
 
 ## Let's Set Sail
 Connect with me on [LinkedIn](https://www.linkedin.com/in/ziaullah-cs/) and let's set sail on this coding adventure together!
+<a href="https://www.linkedin.com/in/ziaullah-cs/">
+  <img src="https://onmsft.com/wp-content/uploads/2021/03/linkedinappicon.jpg" alt="LinkedIn" width="100" height="100">
+</a>
