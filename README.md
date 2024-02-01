@@ -11,11 +11,15 @@ I've been deeply engaged in computer science since the beginning of my career. M
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.hmcnow.vendor&hl=en&gl=US">
-  <img src="https://play-lh.googleusercontent.com/eTiij4JX3RkidcDRdVyFIvISGxzMjXaWv0FnQzOhVCHPn8LOF5WxH1V1mmOxcju9EYU=w480-h960-rw" alt="Now by HMC" width="100" height="100">
+  <img src="https://play-lh.googleusercontent.com/eTiij4JX3RkidcDRdVyFIvISGxzMjXaWv0FnQzOhVCHPn8LOF5WxH1V1mmOxcju9EYU=w480-h960-rw" alt="HMC Vendor App" width="100" height="100">
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/details?id=com.app.HMC.royodispatcher&hl=en&gl=US">
-  <img src="https://play-lh.googleusercontent.com/aBLsH149xhKj7YvOscnnxhjDRH__32Sr06TE3XZvJaTp8VbggglDJ-Df64lHRTI8-vM=w480-h960-rw" alt="Now by HMC" width="100" height="100">
+  <img src="https://play-lh.googleusercontent.com/aBLsH149xhKj7YvOscnnxhjDRH__32Sr06TE3XZvJaTp8VbggglDJ-Df64lHRTI8-vM=w480-h960-rw" alt="HMC Rider App" width="100" height="100">
+</a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://apps.apple.com/us/app/free-indeed/id1669226287">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/54/40/20/544020e8-6030-84bb-1241-94165ae09601/AppIcon-1x_U007emarketing-0-7-0-85-220-0.png/460x0w.webp" alt="Free Indeed!" width="100" height="100">
 </a>
 
 ## Skills
