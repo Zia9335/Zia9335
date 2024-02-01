@@ -1,31 +1,26 @@
-<h1 align="center">Ahoy, fellow code adventurers! :pirate_flag:</h1> <br>
+# Ahoy, fellow code adventurers! :pirate_flag:
+
 I'm Zia Ullah, an interstellar coder on a mission to turn caffeine into code.
 
-About
----
-I have been deeply engaged with computer science since the outset of my career. As such, I am highly interested in cross-platform application development using Flutter, software project management, cybersecurity, and artificial intelligence. I am fervent about acquiring new skills and capabilities to enhance my self-assurance and expertise. I am prepared to venture outside my comfort zone and embrace new challenges to realize the career advancement that I have been aspiring to
+## About
+I've been deeply engaged in computer science since the beginning of my career. My passion lies in cross-platform application development using Flutter, software project management, cybersecurity, and artificial intelligence. I'm enthusiastic about acquiring new skills to enhance my self-assurance and expertise, always ready to venture outside my comfort zone to embrace new challenges for career advancement.
 
+## Projects
+- [**ignite**](https://ignitestartup.pk/): Worked on the Pakistan Startup Portal, utilizing Vue.js and Tailwind CSS. Developed an interactive and responsive platform for showcasing startups in Pakistan, strengthening my frontend development skills and reinforcing my commitment to crafting impactful digital solutions.
 
-Projects
----
-- [ignite](https://ignitestartup.pk/): I had the opportunity to work on the Pakistan Startup Portal, where I utilized Vue.js and Tailwind CSS to create an interactive and responsive platform for showcasing startups in Pakistan. This experience strengthened my frontend development skills and reinforced my commitment to crafting impactful digital solutions.<br>
+## Skills
+- **Flutter Dart:** Complex UI Development
+- **Architecture:** MVVM
+- **State Management:** Provider, Stacked, Bloc, MobX
+- **API Integration:** Rest APIs added to the App
+- **Firebase:** Push notifications, Crashlytics, Analytics, Authentication, Firebase Cloud Messaging, Realtime Database, Test Lab
+- **Clean and maintainable code:** Optimizing performance and code readability
+- **Payment Integration:** Stripe, In-app Purchases, Hosted payment
+- **Hardware devices:** NFC, Thermal Printer, POS devices
+- **App deployment:** Google Play Store and App Store
+- **Subject interest:** Software Engineering, Data Structure, Analysis of Algorithms, Programming, Project Management, AI, Cyber Security, Operating System
+- **Tech Language:** C++, Java, Python, Dart, HTML, CSS
 
-
-
-Skills
-<br>
----
-- Flutter Dart: Complex UI Development
-- Architecture: MVVM
-- State Management: Provider, Stacked, Bloc, MobX.
-- API Integration: Rest APIs added to the App.
-- Firebase: Push notifications, Crashlytics, Analytics, Authentication, Firebase Cloud Messaging, Realtime Database, Test Lab...
-- Clean and maintainable code: Optimizing performance and code readability.
-- Payment Integration: Stripe, In-app Purchases, Hosted payment. 
-- Hardware devices: NFC, Thermal Printer, POS devices.
-- App deployment: Google Play Store and App Store.
-- Subject interest: Software Engineering, Data Structure, Analysis of Algorithms, Programming, Project Management, AI, Cyber Security, Operating System.
-- Tech Language: C++, Java, Python, Dart, HTML, CSS.
 ---
 <table align="center" align="center" border="0" cellspacing="0" cellpadding="0" style="border-collapse: collapse;">
   <tr>
