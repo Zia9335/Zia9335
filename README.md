@@ -38,6 +38,7 @@ I've been deeply engaged in computer science since the beginning of my career. M
 - **Firebase:** Push notifications, Crashlytics, Analytics, Authentication, Firebase Cloud Messaging, Realtime Database, Test Lab and Google Map
 - **Clean and maintainable code:** Optimizing performance and code readability
 - **Payment Integration:** Stripe, In-app Purchases, Hosted Payment
+- **Social Auth**: Apple auth, Google auth, Facebook auth, Instagram auth
 - **Hardware devices:** NFC, Thermal Printer, POS devices
 - **App deployment:** Google Play Store and App Store
 - **Subject interest:** Software Engineering, Data Structure, Analysis of Algorithms, Programming, Project Management, AI, Cyber Security, Operating System
