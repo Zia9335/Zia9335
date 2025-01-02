@@ -49,6 +49,8 @@ I've been deeply engaged in computer science since the beginning of my career. M
 - **Architecture:** MVVM
 - **State Management:** Provider, Stacked, Bloc, MobX
 - **API Integration:** Rest APIs added to the App
+- **Database:** MySQL Laravel
+- **Serverless:** AWS Python
 - **Firebase:** Push notifications, Crashlytics, Analytics, Authentication, Firebase Cloud Messaging, Realtime Database, Test Lab and Google Map
 - **Clean and maintainable code:** Optimizing performance and code readability
 - **Payment Integration:** Stripe, In-app Purchases, Hosted Payment
