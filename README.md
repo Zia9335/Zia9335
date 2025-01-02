@@ -35,7 +35,7 @@ I've been deeply engaged in computer science since the beginning of my career. M
 </a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://apps.apple.com/bb/app/e-office-mobile/id1611730790">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/9b/e4/859be416-86f9-8bcf-3f78-fd467490ce5f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/460x0w.webp" alt="E-Office Mobile" width="100" height="100">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/13/ad/21/13ad217b-f3b8-e521-fed5-f24ccae9f6ad/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/460x0w.webp" alt="E-Office Mobile" width="100" height="100">
 </a>
 
 
