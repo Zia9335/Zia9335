@@ -29,7 +29,6 @@ I've been deeply engaged in computer science since the beginning of my career. M
 <a href="https://apps.apple.com/bs/app/goldin/id6463608178">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/62/9a/73/629a73a3-aba2-8272-dfa1-6c5ef7b03f25/AppIcon-0-0-1x_U007emarketing-0-0-0-10-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/460x0w.webp" alt="Goldin" width="100" height="100">
 </a>
-
 &nbsp;&nbsp;&nbsp;
 <a href="[https://apps.apple.com/bs/app/goldin/id6463608178](https://apps.apple.com/sk/app/emirates-water-app/id6472646142)">
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/85/9b/e4/859be416-86f9-8bcf-3f78-fd467490ce5f/AppIcon-1x_U007emarketing-0-10-0-85-220-0.png/460x0w.webp" alt="Goldin" width="100" height="100">
